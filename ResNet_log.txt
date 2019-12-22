@@ -1,0 +1,15 @@
+0: Finished a loop
+Finished loop nmber 0
+with Total epochs of 250
+1: Finished a loop
+Finished loop nmber 1
+with Total epochs of 300
+2: Finished a loop
+Finished loop nmber 2
+with Total epochs of 350
+3: Finished a loop
+Finished loop nmber 3
+with Total epochs of 400
+4: Finished a loop
+Finished loop nmber 4
+with Total epochs of 450

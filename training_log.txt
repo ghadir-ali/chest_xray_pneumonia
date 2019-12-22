@@ -1,0 +1,57 @@
+Finished one loop
+Finished loop nmber 0
+with Total epochs of 600
+Finished one loop
+Finished loop nmber 1
+with Total epochs of 650
+Finished one loop
+Finished loop nmber 2
+with Total epochs of 700
+Finished one loop
+Finished loop nmber 3
+with Total epochs of 750
+Finished one loop
+Finished loop nmber 4
+with Total epochs of 800
+Finished one loop
+Finished loop nmber 5
+with Total epochs of 850
+Finished one loop
+Finished loop nmber 6
+with Total epochs of 900
+Finished one loop
+Finished loop nmber 7
+with Total epochs of 950
+Finished one loop
+Finished loop nmber 8
+with Total epochs of 1000
+Finished one loop
+Finished loop nmber 9
+with Total epochs of 1050
+Finished one loop
+Finished loop nmber 0
+with Total epochs of 1100
+Finished one loop
+Finished loop nmber 1
+with Total epochs of 1150
+Finished one loop
+Finished loop nmber 2
+with Total epochs of 1200
+Finished one loop
+Finished loop nmber 3
+with Total epochs of 1250
+Finished one loop
+Finished loop nmber 4
+with Total epochs of 1300
+Finished one loop
+Finished loop nmber 5
+with Total epochs of 1350
+Finished one loop
+Finished loop nmber 6
+with Total epochs of 1400
+Finished one loop
+Finished loop nmber 7
+with Total epochs of 1450
+Finished one loop
+Finished loop nmber 8
+with Total epochs of 1500

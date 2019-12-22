@@ -1,0 +1,195 @@
+Finished one loop
+Finished loop nmber 0
+with Total epochs of 150
+Finished one loop
+Finished loop nmber 1
+with Total epochs of 200
+Finished one loop
+Finished loop nmber 2
+with Total epochs of 250
+Finished one loop
+Finished loop nmber 0
+with Total epochs of 150
+Finished one loop
+Finished loop nmber 1
+with Total epochs of 200
+Finished one loop
+Finished loop nmber 2
+with Total epochs of 250
+Finished one loop
+Finished loop nmber 3
+with Total epochs of 300
+Finished one loop
+Finished loop nmber 4
+with Total epochs of 350
+Finished one loop
+Finished loop nmber 5
+with Total epochs of 400
+0: Finished one loop
+Finished loop nmber 0
+with Total epochs of 150
+1: Finished one loop
+Finished loop nmber 1
+with Total epochs of 200
+2: Finished one loop
+Finished loop nmber 2
+with Total epochs of 250
+3: Finished one loop
+Finished loop nmber 3
+with Total epochs of 300
+4: Finished one loop
+Finished loop nmber 4
+with Total epochs of 350
+5: Finished one loop
+Finished loop nmber 5
+with Total epochs of 400
+6: Finished one loop
+Finished loop nmber 6
+with Total epochs of 450
+7: Finished one loop
+Finished loop nmber 7
+with Total epochs of 500
+8: Finished one loop
+Finished loop nmber 8
+with Total epochs of 550
+9: Finished one loop
+Finished loop nmber 9
+with Total epochs of 600
+10: Finished one loop
+Finished loop nmber 10
+with Total epochs of 650
+0: Finished one loop
+Finished loop nmber 0
+with Total epochs of 700
+1: Finished one loop
+Finished loop nmber 1
+with Total epochs of 750
+2: Finished one loop
+Finished loop nmber 2
+with Total epochs of 800
+3: Finished one loop
+Finished loop nmber 3
+with Total epochs of 850
+4: Finished one loop
+Finished loop nmber 4
+with Total epochs of 900
+5: Finished one loop
+Finished loop nmber 5
+with Total epochs of 950
+6: Finished one loop
+Finished loop nmber 6
+with Total epochs of 1000
+7: Finished one loop
+Finished loop nmber 7
+with Total epochs of 1050
+8: Finished one loop
+Finished loop nmber 8
+with Total epochs of 1100
+9: Finished one loop
+Finished loop nmber 9
+with Total epochs of 1150
+0: Finished one loop
+Finished loop nmber 0
+with Total epochs of 1200
+1: Finished one loop
+Finished loop nmber 1
+with Total epochs of 1250
+2: Finished one loop
+Finished loop nmber 2
+with Total epochs of 1300
+3: Finished one loop
+Finished loop nmber 3
+with Total epochs of 1350
+4: Finished one loop
+Finished loop nmber 4
+with Total epochs of 1400
+5: Finished one loop
+Finished loop nmber 5
+with Total epochs of 1450
+6: Finished one loop
+Finished loop nmber 6
+with Total epochs of 1500
+7: Finished one loop
+Finished loop nmber 7
+with Total epochs of 1550
+0: Finished one loop
+Finished loop nmber 0
+with Total epochs of 1600
+1: Finished one loop
+Finished loop nmber 1
+with Total epochs of 1650
+2: Finished one loop
+Finished loop nmber 2
+with Total epochs of 1700
+3: Finished one loop
+Finished loop nmber 3
+with Total epochs of 1750
+4: Finished one loop
+Finished loop nmber 4
+with Total epochs of 1800
+0: Finished one loop
+Finished loop nmber 0
+with Total epochs of 1850
+1: Finished one loop
+Finished loop nmber 1
+with Total epochs of 1900
+2: Finished one loop
+Finished loop nmber 2
+with Total epochs of 1950
+3: Finished one loop
+Finished loop nmber 3
+with Total epochs of 2000
+4: Finished one loop
+Finished loop nmber 4
+with Total epochs of 2050
+0: Finished one loop
+Finished loop nmber 0
+with Total epochs of 2100
+1: Finished one loop
+Finished loop nmber 1
+with Total epochs of 2150
+2: Finished one loop
+Finished loop nmber 2
+with Total epochs of 2200
+3: Finished one loop
+Finished loop nmber 3
+with Total epochs of 2250
+4: Finished one loop
+Finished loop nmber 4
+with Total epochs of 2300
+0: Finished one loop
+Finished loop nmber 0
+with Total epochs of 2100
+1: Finished one loop
+Finished loop nmber 1
+with Total epochs of 2150
+2: Finished one loop
+Finished loop nmber 2
+with Total epochs of 2200
+0: Finished a loop
+Finished loop nmber 0
+with Total epochs of 200
+1: Finished a loop
+Finished loop nmber 1
+with Total epochs of 250
+2: Finished a loop
+Finished loop nmber 2
+with Total epochs of 300
+3: Finished a loop
+Finished loop nmber 3
+with Total epochs of 350
+4: Finished a loop
+Finished loop nmber 4
+with Total epochs of 400
+0: Finished a loop
+Finished loop nmber 0
+with Total epochs of 450
+1: Finished a loop
+Finished loop nmber 1
+with Total epochs of 500
+2: Finished a loop
+Finished loop nmber 2
+with Total epochs of 550
+3: Finished a loop
+Finished loop nmber 3
+with Total epochs of 600
